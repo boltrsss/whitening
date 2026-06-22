@@ -1,0 +1,8 @@
+{
+  "name": "ConsumeSkills Dental Advertorial",
+  "description": "A health advertorial with green styling, sticky sidebar, and outsite CTA links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
