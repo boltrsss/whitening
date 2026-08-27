@@ -157,7 +157,7 @@ export default function App() {
               </p>
 
               <p>
-                She told me the name. PurelyWHITE Deluxe.
+                She told me the name. Gleam Mint.
               </p>
 
               <p>
@@ -215,7 +215,7 @@ export default function App() {
                   href="https://go.consumerskills.org/click" 
                   className="block bg-[#cc0103] text-white px-8 py-5 rounded-xl font-black hover:bg-[#b00103] transition shadow-xl shadow-red-900/20 hover:shadow-2xl hover:-translate-y-1 transform duration-200 w-full text-xl border-b-4 border-[#8f0102] active:border-b-0 active:translate-y-1"
                 >
-                  Check If PurelyWHITE is Still In Stock →
+                  Check If Gleam Mint is Still In Stock →
                 </a>
               </div>
 
@@ -306,11 +306,11 @@ export default function App() {
               </p>
 
               <p>
-                <a href="https://go.consumerskills.org/click" className="font-bold text-green-700 hover:text-green-800 underline decoration-[3px] underline-offset-4 decoration-green-200 hover:decoration-green-500 transition-colors">PurelyWHITE Deluxe</a> is $29.99. I order from their website.
+                <a href="https://go.consumerskills.org/click" className="font-bold text-green-700 hover:text-green-800 underline decoration-[3px] underline-offset-4 decoration-green-200 hover:decoration-green-500 transition-colors">Gleam Mint</a> is $29.99. I order from their website.
               </p>
 
               <div className="my-10 flex justify-center text-center">
-                <img src="/images/offer_bx_btl.jpg" alt="PurelyWHITE Deluxe product" className="mx-auto max-w-full" />
+                <img src="/images/offer_bx_btl.jpg" alt="Gleam Mint product" className="mx-auto max-w-full" />
               </div>
 
               <p>
