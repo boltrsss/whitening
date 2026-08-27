@@ -24,9 +24,9 @@ export default function ReviewCards() {
       initial: 'PM',
       name: 'Presley McKnight',
       verified: true,
-      title: 'Purely white is SUPERIOR',
+      title: 'Gleam Mint is SUPERIOR',
       content: [
-        "No sensitivity, and instant white results! I love love purely white!!!!!"
+        "No sensitivity, and instant white results! I love love GleamMint whitening!!!!!"
       ]
     },
     {
