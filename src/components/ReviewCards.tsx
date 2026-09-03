@@ -24,9 +24,9 @@ export default function ReviewCards() {
       initial: 'PM',
       name: 'Presley McKnight',
       verified: true,
-      title: 'Gleam Mint is SUPERIOR',
+      title: 'Brite Wite is SUPERIOR',
       content: [
-        "No sensitivity, and instant white results! I love love GleamMint whitening!!!!!"
+        "No sensitivity, and instant white results! I love love Brite Wite whitening!!!!!"
       ]
     },
     {
